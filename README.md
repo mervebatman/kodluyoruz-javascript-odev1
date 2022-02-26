@@ -1,8 +1,7 @@
 ### Javascript Clock
 
-**Javascript** prompt ile kullanıcıdan isim bilgisi alındı.
+**Javascript** prompt ile kullanıcıdan isim bilgisi alındı. <br>
 **Javascript** ile anlık tarih ve zamanı alarak bir sayaç oluşturuldu.
 
 ***************************************
-
-![Proje Görünümü] (img/projectview.jpg)
+<img src="./img/projectview.jpg">
